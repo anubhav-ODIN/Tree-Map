@@ -148,3 +148,18 @@ html {
     display:flex;
   }
 
+.copy{
+    display: flex;
+    color: white;
+    border-top: solid;
+    border-color: white;
+    margin-top:9em;
+}
+
+.copy h5{
+    padding: 10px;
+    display:flex;
+    margin-left: 50%;
+   
+}
+
